@@ -1,0 +1,52 @@
+#login{
+	margin-top: 150px;
+}
+.container{
+	width: 400px;
+	height: 460px;
+	background-color: #B7F5E2;
+	padding-top: 40px;
+	border-radius: 10px;
+}
+
+#username{
+	width: 350px;
+	height: 40px;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	border-radius: 20px;
+	text-align: center;
+}
+#password{
+	width: 350px;
+	height: 40px;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 10px;
+	margin-bottom: 20px;
+	text-align: center;
+	border-radius: 20px;
+}
+#btn-connexion{
+	height: 70px;
+	width: 150px;
+}
+#btn-connexion:hover{
+	box-shadow: 10px 5px 5px #E9DDFC;
+}
+a{
+	color:#F9350B;
+}
+a:hover{
+	color:#AD22AA;
+}
+#btn-newAccount{
+	margin-top: 70px;
+	width: 80%;
+	
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
